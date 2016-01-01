@@ -1,2 +1,3 @@
 # Betterwhale.github.io
-wkmsdsg's bolg
+ my first blog -- from Whale 
+          2016.01.01
